@@ -1,0 +1,10 @@
+.well-known
+.idea
+.env.json
+.env.ini
+*.gz
+Runtime
+Uploads
+/vendor
+
+
