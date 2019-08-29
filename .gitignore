@@ -7,5 +7,6 @@
 Runtime
 Uploads
 /vendor
+composer.lock
 
 
