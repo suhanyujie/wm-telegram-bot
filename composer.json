@@ -1,0 +1,27 @@
+{
+    "name": "suhanyu/wm-telegram-bot",
+    "description": "基于 workerman 实现的 telegram 机器人",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suhanyujie",
+            "email": "suhanyujie@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "workerman/workerman": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.laravel-china.org"
+        }
+    }
+}
